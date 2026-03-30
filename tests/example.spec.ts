@@ -14,9 +14,3 @@ test('get started link', async ({ page }) => {
 
   changed
 });
-
-
-
-
-testdata
-\
